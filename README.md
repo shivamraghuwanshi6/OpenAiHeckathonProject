@@ -385,3 +385,21 @@ if __name__ == '__main__':
         print(f"Fatal error: {str(e)}")
         print("Atlas AI could not start.")
         input("Press Enter to exit...")
+
+
+
+      #tool required
+      #install pycharm community version or profesional version
+      #install jet brain tool
+      
+
+
+
+
+        #installation must be required for this 
+        #pip install SpeechRecognition
+        #pip install wikipedia
+        #pip install pyaudio
+        #pip install soundevice
+        #pip install numphy
+        #pip install scipy
